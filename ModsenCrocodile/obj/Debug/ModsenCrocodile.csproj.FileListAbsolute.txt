@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C#\ModsenCrocodile\ModsenCrocodile\obj\Debug\ModsenCrocodile.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\C#\ModsenCrocodile\ModsenCrocodile\obj\Debug\ModsenCrocodile.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#\ModsenCrocodile\ModsenCrocodile\bin\Debug\ModsenCrocodile.exe.config
+C:\Users\user\source\repos\C#\ModsenCrocodile\ModsenCrocodile\bin\Debug\ModsenCrocodile.exe
+C:\Users\user\source\repos\C#\ModsenCrocodile\ModsenCrocodile\bin\Debug\ModsenCrocodile.pdb
+C:\Users\user\source\repos\C#\ModsenCrocodile\ModsenCrocodile\obj\Debug\ModsenCrocodile.exe
+C:\Users\user\source\repos\C#\ModsenCrocodile\ModsenCrocodile\obj\Debug\ModsenCrocodile.pdb
